@@ -1,0 +1,15 @@
+p {
+font-family: Helvetica;
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+color: #0839c1;
+background-color: #6ceb6c;
+border-style: solid;
+border-color: #f50c0c;
+border-width: 2px;
+margin: 14px;
+padding: 20px;
+border-radius: 14px;
+
+}
